@@ -1,4 +1,4 @@
-# Zpishing-command
+# Zpishing_command
 
 Fire Box
 
